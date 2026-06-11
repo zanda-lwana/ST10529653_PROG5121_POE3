@@ -4,7 +4,7 @@ Part 3 of programming project
 student :ST10529653_Part3 potfolio evidence 
 # Chat Application(Part 1)
 This repository is the starting point of a chat app, showing how to register, log in, and test these methods while using GitHub to keep track of my work.
-## Student Information
+## Student Information 
 - Name: Zanda Lwana
 - Student Number: ST10529653
 - Module: PROG5121
